@@ -1,6 +1,6 @@
 # roots-react
 
-A roots template for building react apps. The default state is the first example given in React's "getting started" documentation.
+A roots template for building react apps.
 
 ### Installation
 
